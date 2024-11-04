@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate: On nothing at the moment
 - 📫 How to reach me: Don't, for now at least 
 - 😄 Pronouns: I'm him
-- ⚡ Fun fact: I'm not acctually him
+- ⚡ Fun fact: I'm not actually him
 
 <!---
 Mooccy/Mooccy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
