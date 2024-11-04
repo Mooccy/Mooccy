@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mooccy
 - 👀 I’m interested in: Games
-- 🌱 I’m currently learning: Html and GDscript
+- 🌱 I’m currently learning: HTML, CSS, JS and more eventually
 - 💞️ I’m looking to collaborate: On nothing at the moment
 - 📫 How to reach me: Don't, for now at least 
 - 😄 Pronouns: I'm him
